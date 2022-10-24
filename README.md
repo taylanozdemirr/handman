@@ -1,5 +1,5 @@
-# handman
+# hangman
 
 for try the app
 
-visit [here](https://taylanozdemirr.github.io/handman/)
+visit [here](https://taylanozdemirr.github.io/hangman/)
